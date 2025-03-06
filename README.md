@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔨 I'm currently working on an AI-powered platform for education.<br>🤝 I'm looking to collaborate on projects related to Web and AI.<br>🙏 I'm seeking help creating a product and growing its user base.<br>🎓 I'm currently learning NextJS and using AI to solve practical problems.<br>💭 Ask me about Web Technology.<br>⚡️ Fun fact about me, I'm non-paulitical.
+🔨 I'm currently working on an AI-powered platform for education.<br>🤝 I'm looking to collaborate on projects related to Web and AI.<br>🙏 I'm seeking help creating a product and growing its user base.<br>🎓 I'm currently learning NextJS and using AI to solve practical problems.<br>💭 Ask me about Web Technology.<br>⚡️ Fun fact about me: I'm non-paulitical.
 
 
 ## 🌐 Socials:
